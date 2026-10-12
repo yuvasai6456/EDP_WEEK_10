@@ -235,6 +235,4 @@ This project is developed for educational and academic purposes. Its predictions
 
 **G. Yuva Sai**
 
-Project: Credit Card Fraud Detection Using Machine Learning
 
-GitHub Repository: https://github.com/yuvasai6456/EDP_WEEK_10
